@@ -14,13 +14,13 @@ Student Demo Peoject based on Adam Freeman's ASP.Net Core 3
 
 
 
-![alt text](https://github.com/PhilipKoller/PhilsStoreSln/blob/master/_Outback.PNG?raw=true)
+![alt text](https://github.com/PhilipKoller/PhilsStoreSln/blob/master/Screenshots/_Outback.PNG?raw=true)
 
 
-![alt text](https://github.com/PhilipKoller/PhilsStoreSln/blob/master/_Cart.PNG?raw=true)
+![alt text](https://github.com/PhilipKoller/PhilsStoreSln/blob/master/Screenshots/_Cart.PNG?raw=true)
 
 
-![alt text](https://github.com/PhilipKoller/PhilsStoreSln/blob/master/_Tests.PNG?raw=true)
+![alt text](https://github.com/PhilipKoller/PhilsStoreSln/blob/master/Screenshots/_Tests.PNG?raw=true)
 
 #                                      Chapter 9
 ![alt text](https://github.com/PhilipKoller/PhilsStoreSln/blob/master/_Checkout.PNG?raw=true)

@@ -31,3 +31,6 @@ Student Demo Peoject based on Adam Freeman's ASP.Net Core 3
 
 ![alt text](https://github.com/PhilipKoller/OutbackProducts/blob/master/Screenshots/_TestCases.PNG?raw=true)
 
+#                                      Chapter 10
+![alt text](https://github.com/PhilipKoller/OutbackProducts/blob/master/Screenshots/_Administration.PNG?raw=true)
+

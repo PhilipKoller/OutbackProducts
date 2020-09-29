@@ -12,7 +12,7 @@ namespace OutbackProducts.Models
         // Provides access to the Product objects in the database
         public DbSet<Product> Products { get; set; }
         
-        
+        public DbSet<Order> Orders { get; set; }
 
     }
 
